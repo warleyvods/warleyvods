@@ -5,7 +5,7 @@
 <a href="https://twitter.com/warleyvods">
   <img align="left" alt="Warley Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/warley-vinicius/">
   <img align="left" alt="Warley LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/12142330088">
@@ -15,7 +15,7 @@
 <a href="https://www.twitch.tv/petahertzz/">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
+<a href="https://playstation.com/user/phertz/">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/playstation.svg" />
 </a>
 <a href="https://steamcommunity.com/id/phertz1/">
