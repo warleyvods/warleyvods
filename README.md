@@ -28,13 +28,13 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm student Bachelors's in Computer Engineer 🎓 from Federal University of Goias 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm student Bachelors's in Computer Engineer 🎓 from Federal University of Goias 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms.
 
 ##
 
 ### Talking about Personal Stuffs:
-- 🛠 &nbsp; I’m currently working with Java, Springboot, Angular, <br /> Typescript, Ionic, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with Java/Kotlin with Springboot and Angular, <br />
+- 🚀 &nbsp; I’m currently learning GoLang.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/warleyvods).
 - 📫 &nbsp; How to reach me: warleyvods@gmail.com.
 
@@ -46,16 +46,6 @@ I'm student Bachelors's in Computer Engineer 🎓 from Federal University of Goi
 - 📰 &nbsp; Reading tech blogs whenever possible.
 - 🍕 &nbsp; Meetups & Tech events.
 - 👾 &nbsp; Play videogames & animes <3
-
-
-##
-### ⚡ Technologies
-Talk to me about:
-- Mobile application development using **Flutter**
-- Web development-**HTML/CSS,Javascript (Angular/React)**
-- Backend development-**Firebase, Java (Springboot)**
-
-
 
 #
 ### Languages and Tools:
