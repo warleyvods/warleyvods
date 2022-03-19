@@ -22,15 +22,6 @@ I'm student Bachelors's in Computer Engineer 🎓 from Federal University of Goi
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/warleyvods).
 - 📫 &nbsp; How to reach me: warleyvods@gmail.com.
 
-##
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; Reading tech blogs whenever possible.
-- 🍕 &nbsp; Meetups & Tech events.
-- 👾 &nbsp; Play videogames & animes <3
-
 <br/>
 <br>
 <br>
