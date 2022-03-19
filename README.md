@@ -7,22 +7,6 @@
 </a>
 <a href="https://www.linkedin.com/in/warley-vinicius/">
   <img align="left" alt="Warley LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/12142330088">
-  <img align="left" alt="Warley Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
-<a href="https://www.twitch.tv/petahertzz/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitch.svg" />
-</a>
-<a href="https://playstation.com/user/phertz/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/playstation.svg" />
-</a>
-<a href="https://steamcommunity.com/id/phertz1/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/steam.svg" />
-</a>
-
-
 
 <br/>
 
