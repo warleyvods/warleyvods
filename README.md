@@ -21,10 +21,6 @@ I'm Software Engineer.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/warleyvods).
 - 📫 &nbsp; How to reach me: warleyvods@gmail.com.
 
-<br/>
-<br>
-<br>
-<br>
 
 ##
 
