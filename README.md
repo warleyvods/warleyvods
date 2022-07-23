@@ -11,12 +11,12 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm student Bachelors's in Computer Engineer 🎓 from Federal University of Goias. I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. Apart from that I also love to guide and mentor newbie. I'm currently into Web Development and working on my Data Structures and Algorithms.
+I'm Software Engineer.
 
 ##
 
 ### Talking about Personal Stuffs:
-- 🛠 &nbsp; I’m currently working with Java/Kotlin with Springboot and Angular, <br />
+- 🛠 &nbsp; I’m currently working with Java/Kotlin with Springboot and ReactJS, <br />
 - 🚀 &nbsp; I’m currently learning GoLang.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/warleyvods).
 - 📫 &nbsp; How to reach me: warleyvods@gmail.com.
@@ -25,9 +25,6 @@ I'm student Bachelors's in Computer Engineer 🎓 from Federal University of Goi
 <br>
 <br>
 <br>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=warleyvods&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
