@@ -1,14 +1,3 @@
-<a href="WarLeey#0457">
-  <img align="left" alt="Warley Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/warleyvods">
-  <img align="left" alt="Warley Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/warley-vinicius/">
-  <img align="left" alt="Warley LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-
-<br/>
-
 ### Glad to see you here! &nbsp;
 
 I ❤️ Code
