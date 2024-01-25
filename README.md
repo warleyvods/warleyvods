@@ -2,7 +2,7 @@
 
 Hello, my name is Warley.
 
-With more than 10 years of experience in the computing area, I have worked in several domains such as Cloud, Infrastructure, Development, Networks and Security. I currently work as a Software Engineer at Nubank. Before that, I contributed my skills and knowledge to MercadoLibre for 3 years.
+With more than 10 years of experience in the computing area, I have worked in several domains such as Cloud, Infrastructure, Development, Networks and Security. I currently work as a Software Engineer at Nubank. Before that, I contributed my skills and knowledge to MercadoLivre for 3 years.
 
 Feel free to get in touch if you have any questions or would like to connect. Thanks!
 
