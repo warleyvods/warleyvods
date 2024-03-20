@@ -6,7 +6,6 @@ With more than 10 years of experience in the computing area, I have worked in se
 
 Feel free to get in touch if you have any questions or would like to connect. Thanks!
 
-I ❤️ Code
 
 ##
 
