@@ -2,7 +2,7 @@
 
 Hello, my name is Warley.
 
-With more than 10 years of experience in the computing area, I have worked in several domains such as Cloud, Infrastructure, Development, Networks and Security. I currently work as a Software Engineer at Nubank. Before that, I contributed my skills and knowledge to MercadoLivre for 3 years.
+I have worked in several domains in computer area such as Infrastructure, Cloud, Development, Networks and Security. I currently work as a Software Engineer at Nubank.
 
 Feel free to get in touch if you have any questions or would like to connect. Thanks!
 
@@ -10,8 +10,8 @@ Feel free to get in touch if you have any questions or would like to connect. Th
 ##
 
 ### Talking about Personal Stuffs:
-- 🛠 &nbsp; I’m currently working with Java/Kotlin with Springboot and NextJS, <br />
-- 🚀 &nbsp; I’m currently learning Clojure.
+- 🛠 &nbsp; I’m currently working with Clojure, <br />
+- 🚀 &nbsp; I’m currently learning Clojure and Flutter.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/warleyvods).
 - 📫 &nbsp; How to reach me: warleyvods@gmail.com.
 
