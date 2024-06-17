@@ -2,10 +2,6 @@
 
 Hello, my name is Warley.
 
-I have worked in several domains in computer area such as Infrastructure, Cloud, Development, Networks and Security. I currently work as a Software Engineer at Nubank.
-
-Feel free to get in touch if you have any questions or would like to connect. Thanks!
-
 
 ##
 
